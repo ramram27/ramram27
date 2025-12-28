@@ -1,5 +1,17 @@
 # 💫 About Me:
-I am a Software Developer with over 4 years of experience in full-stack development. I specialize in building scalable web applications and dashboards utilizing technologies such as JavaScript, React.js, Node.js, and PostgreSQL. My proficiency in implementing role-based access control, payment integrations, and real-time notifications has driven efficiency in product- based environments. I am passionate about leveraging my skills to create impactful solutions
+👋 Hi, I'm Rohit — Full Stack Developer (MERN + TypeScript)
+
+💼 I build scalable web apps, REST APIs, and microservices
+🛠 Tech Stack:
+JavaScript • TypeScript • React.js • Next.js • Tailwind CSS • Shadcn UI
+Node.js • NestJS • Express.js • Prisma ORM • PostgreSQL • MongoDB • Redis
+RAG • LangChain • Python
+Docker • Git • GitHub • Vercel • AWS • Stripe • Postman
+
+🚀 Currently building AI + RAG-enabled apps
+🤝 Open to collaborate on Next.js, Node.js, and AI-driven projects
+📫 Let's connect: https://www.linkedin.com/in/rohit-kumar83/
+
 
 
 ## 🌐 Socials:
